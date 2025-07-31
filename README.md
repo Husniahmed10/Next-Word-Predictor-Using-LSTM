@@ -22,5 +22,8 @@ Predict the **next word** in a sentence using a characterful dataset: Shakespear
 
 ## 🖼️ App Preview  
 
--  Enter any text prompt and the app will predict the most likely next word.  
+> Enter any text prompt and the app will predict the most likely next word.
+
+<img width="1919" height="909" alt="Screenshot 2025-07-31 112822" src="https://github.com/user-attachments/assets/60e21672-7b3e-481e-95b3-96cb87088ef3" />
+
 
