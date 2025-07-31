@@ -10,12 +10,17 @@ Predict the **next word** in a sentence using a characterful dataset: Shakespear
 
 ---
 
-## 🌟 Highlights
+## 🌟 Features  
 
-- 📚 **Corpus:** NLTK Gutenberg — *shakespeare-hamlet.txt*  
-- 🧠 **Model:** Embedding → LSTM(150) → Dropout(0.2) → LSTM(100) → Dense(softmax)  
-- ⚙️ **Inference:** Real-time predictions in a minimal Streamlit UI  
-- 💾 **Artifacts:** `next_word_lstm.h5` (model) & `tokenizer.pickle` (vocab)  
-- 🧪 **Preprocessing:** Tokenization, n-gram sequence building, sequence padding
+- 🔤 **Next-word prediction** using deep learning  
+- 📚 **Trained on Shakespeare's text** for poetic predictions  
+- 🎨 **Clean, interactive UI** powered by Streamlit  
+- 💾 **Pre-trained model and tokenizer** for instant use  
+- 🧠 LSTM-based architecture optimized for text sequence tasks  
 
 ---
+
+## 🖼️ App Preview  
+
+> Enter any text prompt and the app will predict the most likely next word.  
+
